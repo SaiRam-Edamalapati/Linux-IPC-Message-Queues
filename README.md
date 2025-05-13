@@ -1,9 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-```
- Name: SAIRAM E
- Register No: 212224240141
-```
+# Name: SAIRAM E
+# Register No: 212224240141
 
 # AIM:
 To write a C program that receives a message from message queue and display them
